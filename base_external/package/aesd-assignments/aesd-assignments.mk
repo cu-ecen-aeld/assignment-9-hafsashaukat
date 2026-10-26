@@ -4,7 +4,7 @@
 #
 ##############################################################
 
-AESD_ASSIGNMENTS_VERSION = 2fbdc037b6be6f805c1a9599a1a128eeba7729e1
+AESD_ASSIGNMENTS_VERSION = 25b3ff54eab27a1700591f3d36a6610ef8cc4b0e
 
 # Use SSH repository URL for automated build/test system
 AESD_ASSIGNMENTS_SITE = git@github.com:cu-ecen-aeld/assignment-3-hafsashaukat.git
